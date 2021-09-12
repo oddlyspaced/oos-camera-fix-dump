@@ -1,0 +1,9 @@
+Updates:
+
+13/9/2021 (1:31 AM)
+- Initial setup
+- OPLog is just a dummy package with permission tags for OOS Camera
+- Xpos is the xposed module which hooks onto the setvendor method to make sure that the cam doesn't crash
+- Camera cannot open normally, getting some serialized shit error
+- Pro mode works okish
+- Switching modes crashes app
