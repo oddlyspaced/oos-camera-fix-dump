@@ -7,3 +7,6 @@ Updates:
 - Camera cannot open normally, getting some serialized shit error
 - Pro mode works okish
 - Switching modes crashes app
+
+05/10/2021
+- Tried building evolution x with oos camera flags but it worsens the experience
